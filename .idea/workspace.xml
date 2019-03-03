@@ -8,7 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="94ad5a79-2e2c-465f-9147-0390249f23c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSweeper/JavaSweeper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSweeper/JavaSweeper$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSweeper/JavaSweeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSweeper/JavaSweeper.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550689108408" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550776374718" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -206,7 +207,7 @@
       <workItem from="1548702396522" duration="1338000" />
       <workItem from="1548880398549" duration="64000" />
       <workItem from="1550001125933" duration="11953000" />
-      <workItem from="1550599310673" duration="5625000" />
+      <workItem from="1550599310673" duration="6893000" />
     </task>
     <task id="LOCAL-00001" summary="last commit">
       <created>1550600957941</created>
@@ -222,17 +223,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550688566473</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="22-Радуга картинок">
+      <created>1550689171094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550689171094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22530000" />
+    <option name="totallyTimeSpent" value="23798000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="934" y="8" width="915" height="1087" extended-state="0" />
+    <frame x="-8" y="-8" width="1865" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2140351" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10138504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15368421" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15224192" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49637306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -266,7 +274,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last commit" />
     <MESSAGE value="21-Полный список" />
-    <option name="LAST_COMMIT_MESSAGE" value="21-Полный список" />
+    <MESSAGE value="22-Радуга картинок" />
+    <option name="LAST_COMMIT_MESSAGE" value="22-Радуга картинок" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/res/img/closed.png">
