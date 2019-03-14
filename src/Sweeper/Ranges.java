@@ -1,10 +1,12 @@
 package Sweeper;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class Ranges {
     static private Coord size;
     static private ArrayList<Coord> allCoords;
+    static private Random random = new Random();
 
     static void setSize(Coord size) {
 
@@ -33,5 +35,9 @@ public class Ranges {
     static public boolean inRange(Coord coord) {
         return coord.x >= 0 && coord.x < size.x &&
                 coord.y >= 0 && coord.y < size.y;
+    }
+
+    static Coord getRandomCoord() {
+        return new Coord(random.nextInt(size.x), random.nextInt(size.y));
     }
 }
